@@ -1,3 +1,8 @@
+/*Richard Boyd
+Producer and Consumer problem
+Demonstrates pacing two threads without use of sychronization techniques
+*/
+
 #include<stdio.h>
 #include<pthread.h>
 
