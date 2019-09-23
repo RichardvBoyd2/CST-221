@@ -1,6 +1,6 @@
 /*Richard Boyd
 Deadlock Avoidance
-idk yet lol
+Uses a timer to manage multiple threads and their attempts to share a single resource
 */
 
 #include<stdio.h>
